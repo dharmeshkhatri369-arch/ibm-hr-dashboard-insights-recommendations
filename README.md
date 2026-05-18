@@ -36,7 +36,7 @@ IBM HR Analytics Dashboard using Power BI with insights and recommendations.
 # 📸 Dashboard Preview
 
 ## 🔹 Dashboard Page 1
-![Dashboard Page 1](page 1.PNG)
+![Page 1](page 1.PNG)
 
 ---
 
