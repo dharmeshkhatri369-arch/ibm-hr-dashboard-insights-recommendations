@@ -5,7 +5,6 @@ This project analyzes employee attrition, job satisfaction, salary trends, and w
 
 ## Tools Used
 - Power BI
-- Excel
 - DAX
 - Power Query
 
